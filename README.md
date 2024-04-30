@@ -1,6 +1,7 @@
 # fitness
 
-A new Flutter project.
+Sample frontend-only fitness app page made while learning dart and flutter.
+Created to test my beginner flutter skills.
 
 ## Getting Started
 
